@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is a Todo List created with ReactJs and Reactstrap. It is made for mobile viewing primarily and is responsive till a certain extent.
 
 ## Available Scripts
 
