@@ -1,0 +1,31 @@
+.default{
+  background-color: rgba(145, 175, 170, 0.05);
+  padding: 0px 14px 0 14px;
+}
+
+.lighter {
+  opacity: 0.4;
+  filter: grayscale(50%);
+}
+
+.time{
+  font-family: Roboto;
+  font-weight: 500;
+  color: #434343;
+  font-size: 14px;
+}
+
+.task{
+  font-family: Roboto;
+  font-weight: 600;
+  color: #737373;
+  margin-left: 2px;
+  padding-top: 15px;
+}
+
+.check{
+}
+
+.delete {
+  margin-right: 20px;
+}
